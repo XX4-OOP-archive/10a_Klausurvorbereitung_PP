@@ -79,6 +79,33 @@
 // console.log(document.getElementById("test"));
 // document.getElementById("test").innerHTML = "Hallo Text!"
 
+/* ENTSCHEIDUNGSSTRUKTUREN | CONTROL FLOW*/
+
+// let cond; // ??
+
+// cond = true;
+// cond = (6 > 4);
+// cond = (6 < 4);
+// cond = (4 == 4); // Test auf Wert
+// cond = (4 === "4"); // Test auf Wert UND Typ
+
+// if (cond) {
+//     console.log("Aussag wahr"); 
+// } else {
+//     console.log("Aussag falsch"); 
+// }
+
+   // switch (key) {
+    //     case value:
+    //         break;
+    //     default:
+    //         break;
+    // }
+
+ //   https://github.com/01-PP/03_Entscheidungsstrukturen
+
+
+
 
 
 
