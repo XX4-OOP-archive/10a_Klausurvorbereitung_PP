@@ -37,3 +37,29 @@
 // console.log(arr);
 // arr.pop();
 // console.log(arr);
+
+/* Objekte */
+
+// let obj = {};
+
+// obj = {x:10, y:"Hi"};
+
+// console.log(obj);
+// console.log(obj.x); // Dot-Sysntax
+// console.log(obj.y);
+
+// obj = {
+//         val0: 10,
+//         sub1:{
+//             val1: "hi",
+//             val2: 2
+//             }
+//     }
+
+
+// console.log(obj);
+// console.log(obj.val0);
+// console.log(obj.sub1.val1);
+// console.log(obj.sub1.val2);
+// {{{{{....}}}}} ... nested object
+
